@@ -41,9 +41,11 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Auriane90&show_icons=true&count_private=true&hide_border=true" />
-</div>
+
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=Auriane90&show_icons=true&count_private=true&hide_border=true](https://streak-stats.demolab.com?user=Auriane90)" />
+</p>
+
 
 ---
 
