@@ -21,7 +21,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 🔹 Linguagens
-- Java | PHP | JavaScript | Python | C | C# | C++ | Ruby
+- Java | PHP | JavaScript | Python | C | C# | C++ | Ruby | Node
 
 ### 🔹 Frontend
 - HTML | CSS | Semantic UI  
