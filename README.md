@@ -3,6 +3,7 @@
 <div align="center">
 🎓 Graduada em Ciência da Computação <br/>
 🎓 Pós Graduada em Desenvolviemto Mobile <br/>
+🎓 Mestrando em Engenharia De Telecomunicação <br/>
 💻 Técnica em Informática desde 2019 <br/>
 🚀 Desenvolvedora Full Stack
 </div>
