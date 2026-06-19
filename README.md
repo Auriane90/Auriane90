@@ -183,20 +183,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auriane90&la
 
 <p>
 
-<a href="https://github.com/Auriane90">
+<a href="[https://github.com/Auriane90](https://github.com/Auriane90)">
 GitHub
 </a>
 
 |
 
-<a href="SEU_LINKEDIN">
+<a href="[SEU_LINKEDIN](https://www.linkedin.com/in/auriane-do-carmo-barbosa-4b8498296/)">
 LinkedIn
-</a>
-
-|
-
-<a href="http://lattes.cnpq.br/3235217687914239">
-Currículo Lattes
 </a>
 
 |
